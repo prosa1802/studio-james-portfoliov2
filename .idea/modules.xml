@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../studio-james-portfolio/.idea/studio-james-portfolio.iml" filepath="$PROJECT_DIR$/../studio-james-portfolio/.idea/studio-james-portfolio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/studio-james-portfoliov2.iml" filepath="$PROJECT_DIR$/.idea/studio-james-portfoliov2.iml" />
     </modules>
   </component>
