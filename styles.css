@@ -39,7 +39,7 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 10vh;
+    margin-top: 20vh;
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
     z-index: 2;
@@ -93,7 +93,7 @@ li {
 .wave-1 {
     fill: rgb(0, 0, 0);
     width: 100vw;
-    height: 29vh;
+    height: 19vh;
     position: fixed;
     bottom: 0;
     left: 0;
@@ -103,7 +103,7 @@ li {
 .wave-2 {
     fill: rgb(252, 163, 17);
     width: 100vw;
-    height: 30vh;
+    height: 20vh;
     position: fixed;
     bottom: 0;
     left: 0;
@@ -112,16 +112,16 @@ li {
 
 /* ABOUT PAGE */
 
-.header {
+.nav-about {
     display: flex;
     justify-content: center;
-    width: 100vw;
+    width: 100%;
     position: fixed;
     top: 0vh;
-    left: 0;
+    left: 0vh;
 }
 
-.header ul {
+.nav-about ul {
     display: flex;
     padding: 5px 5px 5px 5px;
     margin: 0;
