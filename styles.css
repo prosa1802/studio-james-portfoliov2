@@ -110,3 +110,19 @@ li {
     z-index: 1;
 }
 
+/* ABOUT PAGE */
+
+.header {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    position: fixed;
+    top: 0vh;
+    left: 0;
+}
+
+.header ul {
+    display: flex;
+    padding: 5px 5px 5px 5px;
+    margin: 0;
+}
